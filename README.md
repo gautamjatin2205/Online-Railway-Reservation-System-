@@ -15,3 +15,4 @@ Getting Started
 Installation: Follow the installation guide to set up the application on your server.
 Configuration: Configure the system settings and connect to the railway database.
 Usage: Access the application via your web browser to start booking tickets.
+For all data You hav e to download only One file
